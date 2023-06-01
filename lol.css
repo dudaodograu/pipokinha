@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width:  100vh;
+    background: linear-gradient(72deg, rgb(76, 11, 150) 1%,rgb(61, 0, 30) 99%);
+}
+
+.content{
+    height:  520px;
+    width:   935px;
+    border-radius:  20px;
+}
